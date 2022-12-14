@@ -1,5 +1,8 @@
+#include "$CurrentDir:mpmissions\dayzOffline.chernarusplus\SpawnElka.c"
 void main()
 {
+	SpawnElka();
+     GetGame().GetCallQueue( CALL_CATEGORY_SYSTEM ).CallLater(SpawnElka, 300000, false);
 	//INIT ECONOMY--------------------------------------
 	Hive ce = CreateHive();
 	if ( ce )
