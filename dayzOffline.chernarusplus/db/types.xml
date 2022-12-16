@@ -28995,10 +28995,10 @@
     </type>
 
     <type name="Mag_CMAG_40Rnd_od">
-        <nominal/>
-        <lifetime/>
-        <restock/>
-        <min/>
+        <nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>3600</restock>
+        <min>1</min>
         <quantmin>5</quantmin>
         <quantmax>50</quantmax>
         <cost/>
@@ -29007,10 +29007,10 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="Mag_CMAG_40Rnd_sand">
-        <nominal/>
-        <lifetime/>
-        <restock/>
-        <min/>
+        <nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>3600</restock>
+        <min>1</min>
         <quantmin>5</quantmin>
         <quantmax>50</quantmax>
         <cost/>
