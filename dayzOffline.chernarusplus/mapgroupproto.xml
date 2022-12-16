@@ -16321,8 +16321,6 @@
 						<point pos="0.177550 -0.955399 -1.609987" range="0.581250" height="1.453125" flags="32" />
 						</container>
 		</group>
-		
-		<!-- NOT INGAME - PREPARATION
 		<group name="Land_Wreck_truck02_aban1_green" >
 						<usage name="Village" />		
 						<usage name="Industrial" />		
@@ -16467,5 +16465,4 @@
 								<proxy type="HatchbackTrunk" pos="-0.054 0.163 1.516" rpy="90.0 180.0 -90.0" />
 						</dispatch>
 		</group>
-		-->
 </prototype>

@@ -680,8 +680,8 @@
     </event>
     <event name="StaticChristmasTree">
         <nominal>13</nominal>
-        <min>0</min>
-        <max>0</max>
+        <min>3</min>
+        <max>8</max>
         <lifetime>43200</lifetime>
         <restock>0</restock>
         <saferadius>1000</saferadius>

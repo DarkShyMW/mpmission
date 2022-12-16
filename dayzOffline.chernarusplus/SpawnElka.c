@@ -18,7 +18,7 @@ void SpawnElka()
 	for ( int i = 0; i < nearest_objects.Count(); i++ )
 	{
 		Object nearest_object = nearest_objects.Get(i);
-		if ( nearest_object.IsInherited( ChristmasTree_Green ) ) //класснейм ёлки поменять на свой
+		if ( nearest_object.IsInherited(ChristmasTree_Green) ) //класснейм ёлки поменять на свой
 		{
 			Building Elka = Building.Cast(nearest_object);			
 			int angle; float tpX; float tpZ; vector pos; vector position; 

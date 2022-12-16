@@ -601,7 +601,6 @@
 			<point pos="6.21 0.95 0.31" range="0.50" height="1.50" />
 			</container>
 		</cluster>
-<!--
 		<cluster name="Stone1" lootmax="2">
 			<de name="TrajectoryStones" />
 			<container name="road" lootmax="1">
@@ -642,5 +641,4 @@
 			<point pos="-0.040581 -0.670837 -1.206359" range="0.478125" height="1.195313" flags="32" />
 			</container>
 		</cluster>
--->
 </prototype>
